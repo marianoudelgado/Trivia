@@ -1,3 +1,3 @@
-# iOS-Trivia
+# Trivia
 
-iOS App that fetches categories and questions from https://opentdb.com.
+App IOS Utilizando Alamofire y  conectandome a  https://opentdb.com.
